@@ -6,15 +6,6 @@ This repository is a Kafka + Spring Boot proof of concept that demonstrates even
 
 Project status: private, learning/archive project, not under active development.
 
-## Why this exists
-
-I built this to learn event-driven communication using Kafka and Spring Boot.  
-I no longer actively work on Kafka, so this repo is kept as a private reference.
-
-## Learning source note
-
-I originally learned this from a YouTube tutorial around the time I built it, but I do not remember the exact video/channel now.
-
 ## Overview
 
 This project has 3 modules:
@@ -104,4 +95,6 @@ Expected behavior:
 - Database persistence is not implemented in this POC.
 - This project is private and intended as a personal learning reference.
 
+## Learning source note
 
+I originally learned this from a YouTube tutorial around the time I built it, but I do not remember the exact video/channel now.
